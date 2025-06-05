@@ -4,7 +4,7 @@ This is a simple task board built with React and Next.js.
 
 ## 🔗 Live Web App
 
-[Click here to view deployed app]([https://reactjs-sample-0225-yourname.vercel.app](https://reactjs-sample-0225-3x92wjf2g-kaustubhs-projects-abec2948.vercel.app))
+[Click here to view deployed app](https://reactjs-sample-0225-3x92wjf2g-kaustubhs-projects-abec2948.vercel.app)
 
 ## 🔧 Features
 
